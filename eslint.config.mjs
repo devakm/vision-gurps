@@ -32,7 +32,7 @@ export default [
                 Color: "readonly",
                 ColorAdjustmentsSamplerShader: "readonly",
                 DetectionMode: "readonly",
-                dnd5e: "readonly",
+                gurps: "readonly",
                 foundry: "readonly",
                 game: "readonly",
                 GlowOverlayFilter: "readonly",
